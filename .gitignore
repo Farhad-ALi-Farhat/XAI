@@ -1,1 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Logs and local environments
+*.log
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.DS_Store
+
+# Model and large files
+*.h5
+*.keras
+*.ckpt
+*.tflite
+*.pb
+temp_video.mp4
+
+# Output images
+*.png
+
+# VSCode
+.vscode/
+
+# Render deploy files
+venv/
 
