@@ -1,9 +1,10 @@
 fastapi
 uvicorn
 pydantic
-opencv-python-headless
+opencv-python
 numpy
 scikit-image
 lime
 tensorflow
 gdown
+python-multipart
